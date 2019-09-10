@@ -2,6 +2,7 @@
 #define dtls_h_
 
 #include <stdbool.h>
+#include <stdint.h>
 
 #include <openssl/err.h>
 #include <openssl/dh.h>
